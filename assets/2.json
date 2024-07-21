@@ -1,0 +1,595 @@
+[
+  {
+    "frame_number": 0,
+    "faces": [],
+    "related_scene": {
+      "start_seconds": 0,
+      "end_seconds": 4.68,
+      "start_frame": 0,
+      "end_frame": 116,
+      "start_timecode": "00:00:00.000",
+      "end_timecode": "00:00:04.679",
+      "scene_number": 0
+    }
+  },
+  {
+    "frame_number": 117,
+    "faces": [
+      {
+        "x1": 324,
+        "y1": 38,
+        "x2": 423,
+        "y2": 137,
+        "speaking_score": -1.4333333174387615,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 4.68,
+      "end_seconds": 13.72,
+      "start_frame": 117,
+      "end_frame": 342,
+      "start_timecode": "00:00:04.679",
+      "end_timecode": "00:00:13.720",
+      "scene_number": 1
+    }
+  },
+  {
+    "frame_number": 343,
+    "faces": [
+      {
+        "x1": 489,
+        "y1": 69,
+        "x2": 543,
+        "y2": 123,
+        "speaking_score": 0.5333333313465118,
+        "active": true
+      },
+      {
+        "x1": 106,
+        "y1": 57,
+        "x2": 159,
+        "y2": 110,
+        "speaking_score": -1.1666667064030964,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 13.72,
+      "end_seconds": 17.44,
+      "start_frame": 343,
+      "end_frame": 435,
+      "start_timecode": "00:00:13.720",
+      "end_timecode": "00:00:17.440",
+      "scene_number": 2
+    }
+  },
+  {
+    "frame_number": 436,
+    "faces": [
+      {
+        "x1": 306,
+        "y1": 47,
+        "x2": 408,
+        "y2": 149,
+        "speaking_score": 1,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 17.44,
+      "end_seconds": 24.92,
+      "start_frame": 436,
+      "end_frame": 622,
+      "start_timecode": "00:00:17.440",
+      "end_timecode": "00:00:24.920",
+      "scene_number": 3
+    }
+  },
+  {
+    "frame_number": 623,
+    "faces": [
+      {
+        "x1": 492,
+        "y1": 70,
+        "x2": 547,
+        "y2": 125,
+        "speaking_score": 0.600000003973643,
+        "active": true
+      },
+      {
+        "x1": 103,
+        "y1": 55,
+        "x2": 157,
+        "y2": 109,
+        "speaking_score": -0.8666666746139526,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 24.92,
+      "end_seconds": 28.56,
+      "start_frame": 623,
+      "end_frame": 713,
+      "start_timecode": "00:00:24.920",
+      "end_timecode": "00:00:28.559",
+      "scene_number": 4
+    }
+  },
+  {
+    "frame_number": 714,
+    "faces": [
+      {
+        "x1": 348,
+        "y1": 47,
+        "x2": 454,
+        "y2": 153,
+        "speaking_score": -1.5333333015441895,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 28.56,
+      "end_seconds": 37.04,
+      "start_frame": 714,
+      "end_frame": 925,
+      "start_timecode": "00:00:28.559",
+      "end_timecode": "00:00:37.039",
+      "scene_number": 5
+    }
+  },
+  {
+    "frame_number": 926,
+    "faces": [
+      {
+        "x1": 486,
+        "y1": 70,
+        "x2": 540,
+        "y2": 124,
+        "speaking_score": -1.4666666587193806,
+        "active": false
+      },
+      {
+        "x1": 104,
+        "y1": 55,
+        "x2": 157,
+        "y2": 108,
+        "speaking_score": -0.9666666587193807,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 37.04,
+      "end_seconds": 41.08,
+      "start_frame": 926,
+      "end_frame": 1026,
+      "start_timecode": "00:00:37.039",
+      "end_timecode": "00:00:41.079",
+      "scene_number": 6
+    }
+  },
+  {
+    "frame_number": 1027,
+    "faces": [
+      {
+        "x1": 347,
+        "y1": 47,
+        "x2": 451,
+        "y2": 151,
+        "speaking_score": -0.7000000129143397,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 41.08,
+      "end_seconds": 54.92,
+      "start_frame": 1027,
+      "end_frame": 1372,
+      "start_timecode": "00:00:41.079",
+      "end_timecode": "00:00:54.920",
+      "scene_number": 7
+    }
+  },
+  {
+    "frame_number": 1373,
+    "faces": [
+      {
+        "x1": 109,
+        "y1": 54,
+        "x2": 164,
+        "y2": 109,
+        "speaking_score": -1.2333333094914753,
+        "active": false
+      },
+      {
+        "x1": 492,
+        "y1": 69,
+        "x2": 546,
+        "y2": 123,
+        "speaking_score": -1.0666666825612385,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 54.92,
+      "end_seconds": 61.72,
+      "start_frame": 1373,
+      "end_frame": 1542,
+      "start_timecode": "00:00:54.920",
+      "end_timecode": "00:01:01.719",
+      "scene_number": 8
+    }
+  },
+  {
+    "frame_number": 1543,
+    "faces": [
+      {
+        "x1": 329,
+        "y1": 49,
+        "x2": 434,
+        "y2": 154,
+        "speaking_score": 0.43333333482344943,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 61.72,
+      "end_seconds": 69.68,
+      "start_frame": 1543,
+      "end_frame": 1741,
+      "start_timecode": "00:01:01.719",
+      "end_timecode": "00:01:09.680",
+      "scene_number": 9
+    }
+  },
+  {
+    "frame_number": 1742,
+    "faces": [
+      {
+        "x1": 79,
+        "y1": 49,
+        "x2": 138,
+        "y2": 108,
+        "speaking_score": -0.30000000943740207,
+        "active": false
+      },
+      {
+        "x1": 496,
+        "y1": 71,
+        "x2": 548,
+        "y2": 123,
+        "speaking_score": -2.4333333174387612,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 69.68,
+      "end_seconds": 73.4,
+      "start_frame": 1742,
+      "end_frame": 1834,
+      "start_timecode": "00:01:09.680",
+      "end_timecode": "00:01:13.400",
+      "scene_number": 10
+    }
+  },
+  {
+    "frame_number": 1835,
+    "faces": [
+      {
+        "x1": 178,
+        "y1": 56,
+        "x2": 284,
+        "y2": 162,
+        "speaking_score": 2.300000031789144,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 73.4,
+      "end_seconds": 80.64,
+      "start_frame": 1835,
+      "end_frame": 2015,
+      "start_timecode": "00:01:13.400",
+      "end_timecode": "00:01:20.640",
+      "scene_number": 11
+    }
+  },
+  {
+    "frame_number": 2016,
+    "faces": [
+      {
+        "x1": 108,
+        "y1": 57,
+        "x2": 163,
+        "y2": 112,
+        "speaking_score": 0.033333333830038704,
+        "active": true
+      },
+      {
+        "x1": 495,
+        "y1": 70,
+        "x2": 547,
+        "y2": 122,
+        "speaking_score": -2.5,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 80.64,
+      "end_seconds": 85.4,
+      "start_frame": 2016,
+      "end_frame": 2134,
+      "start_timecode": "00:01:20.640",
+      "end_timecode": "00:01:25.400",
+      "scene_number": 12
+    }
+  },
+  {
+    "frame_number": 2135,
+    "faces": [
+      {
+        "x1": 196,
+        "y1": 59,
+        "x2": 299,
+        "y2": 162,
+        "speaking_score": -2.800000031789144,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 85.4,
+      "end_seconds": 94.04,
+      "start_frame": 2135,
+      "end_frame": 2350,
+      "start_timecode": "00:01:25.400",
+      "end_timecode": "00:01:34.040",
+      "scene_number": 13
+    }
+  },
+
+  {
+    "frame_number": 2351,
+    "faces": [
+      {
+        "x1": 100,
+        "y1": 55,
+        "x2": 159,
+        "y2": 114,
+        "speaking_score": 2.483526865641276e-9,
+        "active": true
+      },
+      {
+        "x1": 494,
+        "y1": 69,
+        "x2": 546,
+        "y2": 121,
+        "speaking_score": -1.8333332935969036,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 94.04,
+      "end_seconds": 96.88,
+      "start_frame": 2351,
+      "end_frame": 2421,
+      "start_timecode": "00:01:34.040",
+      "end_timecode": "00:01:36.879",
+      "scene_number": 14
+    }
+  },
+  {
+    "frame_number": 2422,
+    "faces": [
+      {
+        "x1": 198,
+        "y1": 55,
+        "x2": 304,
+        "y2": 161,
+        "speaking_score": 1.1999999682108562,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 96.88,
+      "end_seconds": 102.36,
+      "start_frame": 2422,
+      "end_frame": 2558,
+      "start_timecode": "00:01:36.879",
+      "end_timecode": "00:01:42.359",
+      "scene_number": 15
+    }
+  },
+  {
+    "frame_number": 2559,
+    "faces": [
+      {
+        "x1": 106,
+        "y1": 57,
+        "x2": 163,
+        "y2": 114,
+        "speaking_score": 1.700000007947286,
+        "active": true
+      },
+      {
+        "x1": 492,
+        "y1": 70,
+        "x2": 545,
+        "y2": 123,
+        "speaking_score": -1.6333333651224773,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 102.36,
+      "end_seconds": 105.8,
+      "start_frame": 2559,
+      "end_frame": 2644,
+      "start_timecode": "00:01:42.359",
+      "end_timecode": "00:01:45.799",
+      "scene_number": 16
+    }
+  },
+
+  {
+    "frame_number": 2645,
+    "faces": [
+      {
+        "x1": 224,
+        "y1": 48,
+        "x2": 320,
+        "y2": 144,
+        "speaking_score": 0.6333333253860474,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 105.8,
+      "end_seconds": 110.6,
+      "start_frame": 2645,
+      "end_frame": 2764,
+      "start_timecode": "00:01:45.799",
+      "end_timecode": "00:01:50.599",
+      "scene_number": 17
+    }
+  },
+  {
+    "frame_number": 2765,
+    "faces": [
+      {
+        "x1": 492,
+        "y1": 71,
+        "x2": 545,
+        "y2": 124,
+        "speaking_score": -1.7666666507720947,
+        "active": false
+      },
+      {
+        "x1": 101,
+        "y1": 54,
+        "x2": 154,
+        "y2": 107,
+        "speaking_score": -2.5,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 110.6,
+      "end_seconds": 114.32,
+      "start_frame": 2765,
+      "end_frame": 2857,
+      "start_timecode": "00:01:50.599",
+      "end_timecode": "00:01:54.319",
+      "scene_number": 18
+    }
+  },
+  {
+    "frame_number": 2858,
+    "faces": [
+      {
+        "x1": 176,
+        "y1": 54,
+        "x2": 278,
+        "y2": 156,
+        "speaking_score": -0.6333333353201548,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 114.32,
+      "end_seconds": 128.36,
+      "start_frame": 2858,
+      "end_frame": 3208,
+      "start_timecode": "00:01:54.319",
+      "end_timecode": "00:02:08.360",
+      "scene_number": 19
+    }
+  },
+  {
+    "frame_number": 3209,
+    "faces": [
+      {
+        "x1": 109,
+        "y1": 59,
+        "x2": 164,
+        "y2": 114,
+        "speaking_score": 0.9333333422740301,
+        "active": true
+      },
+      {
+        "x1": 492,
+        "y1": 70,
+        "x2": 545,
+        "y2": 123,
+        "speaking_score": -1.3666666348775227,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 128.36,
+      "end_seconds": 132.16,
+      "start_frame": 3209,
+      "end_frame": 3303,
+      "start_timecode": "00:02:08.360",
+      "end_timecode": "00:02:12.159",
+      "scene_number": 20
+    }
+  },
+  {
+    "frame_number": 3304,
+    "faces": [
+      {
+        "x1": 198,
+        "y1": 54,
+        "x2": 300,
+        "y2": 156,
+        "speaking_score": -0.5,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 132.16,
+      "end_seconds": 143.72,
+      "start_frame": 3304,
+      "end_frame": 3592,
+      "start_timecode": "00:02:12.159",
+      "end_timecode": "00:02:23.719",
+      "scene_number": 21
+    }
+  },
+
+  {
+    "frame_number": 3593,
+    "faces": [],
+    "related_scene": {
+      "start_seconds": 143.72,
+      "end_seconds": 148.88,
+      "start_frame": 3593,
+      "end_frame": 3721,
+      "start_timecode": "00:02:23.719",
+      "end_timecode": "00:02:28.879",
+      "scene_number": 22
+    }
+  },
+  {
+    "frame_number": 3722,
+    "faces": [
+      {
+        "x1": 191,
+        "y1": 55,
+        "x2": 296,
+        "y2": 160,
+        "speaking_score": 0.5666666726271311,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 148.88,
+      "end_seconds": 151.52,
+      "start_frame": 3722,
+      "end_frame": 3787,
+      "start_timecode": "00:02:28.879",
+      "end_timecode": "00:02:31.520",
+      "scene_number": 23
+    }
+  }
+]

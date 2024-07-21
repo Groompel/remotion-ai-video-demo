@@ -1,0 +1,120 @@
+[
+  {
+    "frame_number": 0,
+    "faces": [
+      {
+        "x1": 606,
+        "y1": 144,
+        "x2": 957,
+        "y2": 495,
+        "speaking_score": -0.36666667461395264,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 0,
+      "end_seconds": 18.09223291150138,
+      "start_frame": 0,
+      "end_frame": 451,
+      "start_timecode": "00:00:00.000",
+      "end_timecode": "00:00:18.092",
+      "scene_number": 0
+    }
+  },
+  {
+    "frame_number": 452,
+    "faces": [
+      {
+        "x1": 862,
+        "y1": 135,
+        "x2": 1232,
+        "y2": 505,
+        "speaking_score": -0.4000000059604645,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 18.09223291150138,
+      "end_seconds": 21.734695732179752,
+      "start_frame": 452,
+      "end_frame": 542,
+      "start_timecode": "00:00:18.092",
+      "end_timecode": "00:00:21.734",
+      "scene_number": 1
+    }
+  },
+  {
+    "frame_number": 543,
+    "faces": [
+      {
+        "x1": 647,
+        "y1": 138,
+        "x2": 998,
+        "y2": 489,
+        "speaking_score": 0.06666666517655055,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 21.734695732179752,
+      "end_seconds": 31.861542914944906,
+      "start_frame": 543,
+      "end_frame": 795,
+      "start_timecode": "00:00:21.734",
+      "end_timecode": "00:00:31.861",
+      "scene_number": 2
+    }
+  },
+  {
+    "frame_number": 796,
+    "faces": [
+      {
+        "x1": 279,
+        "y1": 127,
+        "x2": 436,
+        "y2": 284,
+        "speaking_score": 0.20000000049670538,
+        "active": true
+      },
+      {
+        "x1": 1442,
+        "y1": 155,
+        "x2": 1593,
+        "y2": 306,
+        "speaking_score": -1.399999976158142,
+        "active": false
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 31.861542914944906,
+      "end_seconds": 37.745521317579204,
+      "start_frame": 796,
+      "end_frame": 942,
+      "start_timecode": "00:00:31.861",
+      "end_timecode": "00:00:37.745",
+      "scene_number": 3
+    }
+  },
+  {
+    "frame_number": 943,
+    "faces": [
+      {
+        "x1": 587,
+        "y1": 128,
+        "x2": 920,
+        "y2": 461,
+        "speaking_score": 1.0750000029802322,
+        "active": true
+      }
+    ],
+    "related_scene": {
+      "start_seconds": 37.745521317579204,
+      "end_seconds": 55.053,
+      "start_frame": 943,
+      "end_frame": 1374,
+      "start_timecode": "00:00:37.745",
+      "end_timecode": "00:00:55.052",
+      "scene_number": 4
+    }
+  }
+]
